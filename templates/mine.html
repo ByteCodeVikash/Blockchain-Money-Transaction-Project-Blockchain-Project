@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mine Block</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>Mine a New Block</h1>
+    <form action="/mine_block" method="post">
+        <button type="submit">Mine</button>
+    </form>
+    {% if block %}
+    <h2>Block Mined!</h2>
+    <pre>{{ block | tojson(indent=2) }}</pre>
+    {% endif %}
+</body>
+</html>
