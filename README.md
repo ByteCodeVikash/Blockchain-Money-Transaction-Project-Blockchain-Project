@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Money-Transcation-Security-Blockchain-Project
 Protection and Security of Transaction between friends with help of Blockchain. Project Code, Project PPT, Report and Synopsis for College Project(Final Year Project). 
 
@@ -63,3 +64,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 Mail/Message me for Projects Help 🙏🏻
 
 ### Top blockchain projects : https://vatshayan.medium.com/top-3-blockchain-final-year-projects-e910c25403a4
+=======
+# Blockchain-Money-Transaction-Project-Blockchain-Project
+>>>>>>> b6e78a6cb82256101675cc81e5ebd9553fcda929
